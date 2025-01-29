@@ -1,4 +1,4 @@
-# AWSLabs
+# AWS X-Ray Lab
 
 Download the AWS-Xray-Lambda-Function.py and paste it into your own lambda function 
 
