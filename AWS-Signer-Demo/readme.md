@@ -1,3 +1,5 @@
+#AWS Code Signing Lab
+
 The AWS-Signer-CF-Template.yaml file creates an API Gateway and lambda function for you
 - Save the .yaml file to your machine and upload it to cloudformation in AWS Console
 - Follow the guide on medium to learn how to create a signing profile and signing job to sign your lambda function
