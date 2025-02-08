@@ -7,7 +7,7 @@ This repository contains:
 
 - ✅ **AWS Labs** – CloudFormation templates, Lambda functions, and AWS service integrations.   
 - ✅ **AI & Data Analytics** – Data visualization experiments and RAG applications.  
-- ✅ **DevOps & Automation** – infrastructure as code, and containerized apps.  
+- ✅ **DevOps & Automation** – infrastructure as code and containerized apps.  
 
 ## Guides & Blog Posts  
 Many of these projects are **featured in my Medium articles**. If you’re following a guide, check the corresponding directory for lab files and deployment instructions.  
