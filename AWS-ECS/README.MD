@@ -15,8 +15,8 @@ This is a phishing detection tool written in Go to test our AWS ECS with Fargate
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/phishing-detector.git
-    cd phishing-detector
+    git clone https://github.com/yourusername/AWS-ECS.git
+    cd AWS-ECS
     ```
 
 2. Install dependencies:
@@ -27,12 +27,12 @@ This is a phishing detection tool written in Go to test our AWS ECS with Fargate
     go get github.com/domainr/whois
     ```
 
-3. Set up your API key for WhoIsAPI by creating a `.env` file 
+3. Set up your API key for WhoIsAPI from https://apilayer.com/marketplace
 
 ## Usage
 
 Run the application using:
 
 ```bash
-go run main.go
+go run app/main.go
 
