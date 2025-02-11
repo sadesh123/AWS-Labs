@@ -17,8 +17,8 @@ To start using these labs:
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/sadesh123/AWS-Labs.git
+   cd AWS-Labs
 
 ## Contributing
 I welcome contributions! Feel free to submit issues, feature requests, or PRs to improve the labs.
