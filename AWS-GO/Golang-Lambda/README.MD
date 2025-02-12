@@ -12,13 +12,8 @@ All data is stored in memory for simplicity.
 - Go (version 1.18 or above)
 
 ## Setup
-### 1. Clone the Repository
+### 1. Clone the Repository & Build the Go Binary
 ```bash
 git clone https://github.com/sadesh123/Golang-Lambda.git
 cd Golang-Lambda
-
-### 2. Build the Go Binary
-Build the binary using the following command
-
-```bash
 go build -o main .
